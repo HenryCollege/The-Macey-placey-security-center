@@ -1,0 +1,18 @@
+*{
+  font-family: monospace;
+  background-color: seashell
+}
+
+a {
+  color: purple
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: seashell
+}
